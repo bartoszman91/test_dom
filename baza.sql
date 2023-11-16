@@ -1,0 +1,1 @@
+Baza danych sql i select
